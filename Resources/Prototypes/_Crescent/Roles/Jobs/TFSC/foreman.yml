@@ -11,8 +11,8 @@
   supervisors: You're the leader of the SAW. You answer to your own interests
   canBeAntag: false
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 20000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 20000
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement

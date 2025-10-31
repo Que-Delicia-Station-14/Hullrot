@@ -11,8 +11,8 @@
   supervisors: You answer to your Colonial Marshal and the Deputy Marshal
   canBeAntag: false
   requirements:
-  - !type:CharacterOverallTimeRequirement
-    min: 12000
+#  - !type:CharacterOverallTimeRequirement
+#    min: 12000
   - !type:FactionRequirement
       factionID: "TSP"
   - !type:CharacterTraitRequirement

@@ -12,8 +12,8 @@
   canBeAntag: false
   requirements:
     - !type:CharacterWhitelistRequirement
-    - !type:CharacterOverallTimeRequirement
-      min: 20000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 20000
     - !type:FactionRequirement
       factionID: "NCWL"
     - !type:CharacterSpeciesRequirement

@@ -9,8 +9,8 @@
   supervisors: job-supervisors-gliess
   requirements:
     - !type:CharacterWhitelistRequirement
-    - !type:CharacterOverallTimeRequirement
-      min: 25000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 25000
   special:
   - !type:AddComponentSpecial
     components:

@@ -5,8 +5,8 @@
   playTimeTracker: JobDockhand
   weight: 20
   requirements:
-  - !type:CharacterOverallTimeRequirement
-    min: 10800
+#  - !type:CharacterOverallTimeRequirement
+#    min: 10800
   startingGear: DockhandGear
   icon: "JobIconDockhand"
   supervisors: job-supervisors-gliess

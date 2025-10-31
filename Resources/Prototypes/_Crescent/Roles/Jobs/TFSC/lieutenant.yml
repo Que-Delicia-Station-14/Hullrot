@@ -11,8 +11,8 @@
   supervisors: You answer to the Ringleader.
   canBeAntag: false
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 30000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 30000
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement

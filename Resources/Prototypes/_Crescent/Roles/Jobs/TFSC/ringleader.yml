@@ -12,8 +12,8 @@
   canBeAntag: false
   requirements:
     - !type:CharacterWhitelistRequirement
-    - !type:CharacterOverallTimeRequirement
-      min: 10800
+#    - !type:CharacterOverallTimeRequirement
+#      min: 10800
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement

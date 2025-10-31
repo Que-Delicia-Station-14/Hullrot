@@ -11,8 +11,8 @@
   supervisors: You answer to the Ringleader and Gorlex Security Lieutenants
   canBeAntag: false
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 20000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 20000
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement

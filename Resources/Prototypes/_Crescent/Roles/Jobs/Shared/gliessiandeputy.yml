@@ -8,8 +8,8 @@
   icon: "JobIconMinuteman"
   supervisors: job-supervisors-gliess
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 20000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 20000
   special:
   - !type:AddComponentSpecial
     components:

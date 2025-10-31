@@ -8,8 +8,8 @@
   icon: "JobIconPassenger"
   supervisors: job-supervisors-hire
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 10800
+#    - !type:CharacterOverallTimeRequirement
+#      min: 10800
   accessGroups:
   - GeneralAccess
   special:

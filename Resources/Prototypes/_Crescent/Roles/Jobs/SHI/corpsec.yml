@@ -11,8 +11,8 @@
   supervisors: job-supervisors-shi
   canBeAntag: false
   requirements:
-    - !type:CharacterOverallTimeRequirement
-      min: 16000
+#    - !type:CharacterOverallTimeRequirement
+#      min: 16000
     - !type:FactionRequirement
       factionID: "SHI"
     - !type:CharacterTraitRequirement
