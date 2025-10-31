@@ -5,48 +5,48 @@ job-description-nt-utility-ipc = Load ammunition and upkeep nanotrasen ships. Co
 
 # ncwl
 
-job-description-ncwl-faction-leader = Lead the League from the external end. Maintain relations or war plans with other factions. Don't die.
-job-description-ncwl-kommissar = Lead the League from the internal end. Make sure the Homeguard and Union does their job. Execute traitors.
-job-description-ncwl-fleetkapitan = Command the mass of Partisans. Listen to the Kommissar. Maintain battlefield cohesion.
-job-description-ncwl-partisan = Defend the League. Listen to your Fleetkapitan. Do what you're told.
-job-description-ncwl-artificer = Ensure materials are being refined into trade goods and ammo. Conduct research.
-job-description-ncwl-medical-doctor = Keep the Workers and the Homeguard alive. Run with the Homeguard on missions. Make drugs, save those lost in space.
-job-description-ncwl-coordinator = Organize salvage and mining. Make sure workers are working. Keep resources flowing to the league.
-job-description-ncwl-newbie = Do what work needs doing. Serve the League. Listen to your superiors.
+job-description-ncwl-faction-leader = Lidere a liga pelo lado externo. Mantenha relações ou planos de guerra com outras facções. Não morra.
+job-description-ncwl-kommissar = Lidere a liga pelo lado interno. Certifique que a Guarda está fazendo seu trabalho. Execute traidores.
+job-description-ncwl-fleetkapitan = Comande as massas de Partisãos. Escute os comandos do Komissario. Mantenha coesão no campo de batalha.
+job-description-ncwl-partisan = Defenda a Liga. Obedeça o seu Komodoro. Faça o que te é exigido.
+job-description-ncwl-artificer = Conduza a logística na parte de fabricação. Conduza pesquisas.
+job-description-ncwl-medical-doctor = Mantenha a Guarda e a prole viva. Vá com a Guarda em missões. Faça drogas, salva aqueles perdidos no espaço.
+job-description-ncwl-coordinator = Organize operações de salvatagem e mineração. Verifique se os trabalhadores estão fazendo seu trabalho. Mantenha o fluxo de recursos.
+job-description-ncwl-newbie = Trabalhe em o que precisa ser trabalhado. Sirva a Liga. Obedeça seus superiores.
 
 # syndicate
 
-job-description-ringleader = Coordinate the NCSP. Approve and uphold contracts.
-job-description-lieutenant = Assist your Ringleader to coordinate the NCSP. Approve and uphold contracts.
-job-description-infanteer = Follow your contracts. Hunt bounties. Sell to the highest bidder.
-job-description-technician = Follow your contracts. Hunt bounties. Maintain your vessel's artillery.
-job-description-coordinator = Coordinate Interdyne Pharmaceuticals. Keep track of stock. See to it that contracts are fullfilled.
-job-description-ripperdoc = Follow your contracts. Tend to your fellow mercenaries.
-job-description-traumasec = Secure policyholders. Tend to their medical needs. Eliminate threats to the policyholder.
-job-description-operative = Sabotage enemy vessels and gather intelligence for the Syndicate.
-job-description-intelligenceofficer = Represent the interests of the Family. Sabotage the enemies of the Syndicate.
-job-description-cyberdawntech = Research new technologies for the Family.
-job-description-shipbreaker = Repair Syndicate vessels, take the others apart for scrap.
-job-description-foreman = Coordinate the SAWs. Lead pirate boardings. Scrap vessels.
+job-description-ringleader = Coordene a NCSP. Aprove e assegure contratos.
+job-description-lieutenant = Ajude o Ringleader a coordenar a NCSP. Aprove e assegure contratos.
+job-description-infanteer = Siga seus contratos. Cace cabeças. Atenda a quem mais oferecer.
+job-description-technician = Siga seus contratos. Cace cabeças. Mantenha a artilharia da sua nave.
+job-description-coordinator = Coordene a Interdyne Pharmaceuticals. Fique de olho em seus recursos. Assegure que contratos sejam cumpridos.
+job-description-ripperdoc = Siga seus contratos. Cure seus companheiros.
+job-description-traumasec = Mantenha contratantes em segurança.
+job-description-operative = Sabotage naves inimigas e junte informações de interesse para o Sindicato.
+job-description-intelligenceofficer = Represente os interesses da Familia. Sabotage os inimigos Sindicato.
+job-description-cyberdawntech = Pesquise novas tecnologias para a Familia.
+job-description-shipbreaker = Recupere naves do Sindicato, desmonte outras para obter sucata.
+job-description-foreman = Coordene os SAWs. Lidere embarques piratas. Sucateie naves.
 
 # empire
 
-job-description-freeholder = Obey the Imperial hierarchy. Earn Credits for the Lord Admiral.
-job-description-levyman = Obey your liege, the Lord Admiral. Uphold the will of the Kaiserin.
-job-description-knight = Organize the Imperial Navy. Obey your liege, the Lord Admiral.
-job-description-ritter = Don your Exoplate. Obey your liege, the Lord Admiral. Bring glory in battle.
-job-description-courtier = Obey  your liege, the Lord Admiral. Intrigue for power and rank within his prestigious court.
-job-description-labor = Oversee industrial and trade efforts on behalf of  your liege, the Lord Admiral.
-job-description-adjutant = Obey the Kaiserin, and your liege, the Lord Admiral. Attempt to coordinate the Empire.
-job-description-governor = Exercise the Kaiserin's will. Protect your fief. The Mandate must survive.
-job-description-logistics = Outfit your liege, the Lord Admiral's military with vessels and munitions.
-job-description-wealth = Oversee the barony's economy, generate revenue for your liege, the Lord Admiral and pay his men.
-job-description-foremanimp = Coordinate the workers of your liege, the Lord Admiral.
-job-description-scribe = Explore, discover new technologies, and recover derelicts.
-job-description-archmaester = Coordinate the Scribes Guild, discover new technologies for the Lord Admiral.
-job-description-surgeon = Tend to the bodily ails of your comrades.
-job-description-advocatus = Scrutinise the loyalty of your liege, the Kaiser's subjects. Question violators of His will. Ensure compliance to the Mandate.
-job-description-advocatustemplar = Protect the Advocatus and carry out their will. Ensure compliance to the Mandate.
+job-description-freeholder = Obedeça a hierarquia Imperial. Ganhe Creditos para o Lorde Almirante.
+job-description-levyman = Obedeça seu soberano, o Lorde Almirante. Faça com que a vontade do Kaiser seja feita.
+job-description-knight = Organize a Marinha Imperial. Obedeça seu soberano, o Lorde Almirante.
+job-description-ritter = Vista sua Exoplate. Obedeça seu soberano, o Lorde Almirante. Traga glória em batalha.
+job-description-courtier = Obedeça seu soberano, o Lorde Almirante. Almeje por poder na sua prestigiosa corte.
+job-description-labor = Supervise esforços de troca e indústria em nome de seu soberano, o Lorde Almirante.
+job-description-adjutant = Obedeça o Kaiser e seu soberano, o Lorde Almirante. Tente coordenar o Império.
+job-description-governor = Exercite a vontade do Kaiser. Proteja seu feudo. O Mandato deve sobreviver.
+job-description-logistics = Providencie as forças armadas do Lorde Almirante com naves e munição.
+job-description-wealth = Supervise a economia da baronia, gere dinheiro para o seu soberano, o Lorde Almirante e seus homens.
+job-description-foremanimp = Coordene os trabalhadores do seu soberano, o Lorde Almirante.
+job-description-scribe = Explore, descubra novas tecnologias, e recupere bens derelitos.
+job-description-archmaester = Coordene a Guilda dos Scribas, descubra novas tecnologias para o Lorde Almirante.
+job-description-surgeon = Atenda às preces por saúde de seus irmãos. Faça remédios.
+job-description-advocatus = Julgue a lealdade em seu soberano, dos subordinados do Kaiser. Questione violadores da Sua vontade. Assegure cooperação com o Mandato.
+job-description-advocatustemplar = Proteja o Advocato e faça a sua vontade. Assegure cooperação com o Mandato.
 
 # srm#
 
