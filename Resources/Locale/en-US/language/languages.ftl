@@ -13,9 +13,9 @@ language-RootSpeak-description = The strange whistling-style language spoken by 
 language-Nekomimetic-name = Nekomimetic
 language-Nekomimetic-description = To the casual observer, this language is an incomprehensible mess of broken Japanese. To the Felinids and Oni, it's somehow comprehensible.
 
-language-Draconic-name = Sinta'Unathi
+language-Draconic-name = Sinta'Unati
 language-Draconic-description =
-    The common language of Moghes - composed of sibilant hisses and rattles. Spoken natively by Unathi.
+    A língua da plebe do território imperial de Moghes, dos guetos e das comunidades independentes de comerciantes nomádicos Unati - composta de sibilos e crepitações. Falada nativamente pelos Unati.
 
 language-Azaziba-name = Sinta'Azaziba
 language-Azaziba-description =
@@ -39,17 +39,13 @@ language-TauCetiBasic-description =
     Its unique, fully customized alphabet and structure allow it to be spoken even by most alien species.
     It's the official language of Tau Ceti and has growing traction in diplomatic circles and Universalists across human space.
 
-language-Tradeband-name = Tradeband
+language-Tradeband-name = Tergovino
 language-Tradeband-description =
-    The medium language of Sector Crescent. Rooted in terran Slavic languages, but retrofitted
-    by speakers to accomodate nonhuman vocal chords as well. 
+    Língua franca do Crescente. Vindo de línguas eslávicas da Terra, mas modificado pelos falantes para acomodar vozes não-humanas.
 
 language-Freespeak-name = Jargão Taipenho
 language-Freespeak-description =
-    A language of renegades and frontiersmen descending from various languages from Earth-- like Hindi,
-    combined into a multi-rooted jumble that sounds incoherent or even barbarian to non-native speakers.
-    This language is the only common cultural identity for humans in the frontier. Speaking this language in itself boldly declares the speaker a free spirit.
-    It is often called 'Gutter' by Imperial citizens.
+    Uma língua de rebeldes e pioneiros, vindo de várias línguas Indo-Arianas, parece incoerente ou até mesmo barbárico para não falantes. Essa língua é o único artigo cultural comum para humanos na fronteira. Falar essa língua é, por si só, um ato de declaração de liberdade.
 
 language-Elyran-name = Elyran Standard
 language-Elyran-description =
@@ -62,7 +58,7 @@ language-Canilunzt-description =
     composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
 
 language-Moffic-name = Atyriano
-language-Moffic-description = The language of the Atyrians borders on complete unintelligibility.
+language-Moffic-description = Quase incoerente.
 
 language-RobotTalk-name = RobotTalk
 language-RobotTalk-description = A language consisting of harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
@@ -70,8 +66,8 @@ language-RobotTalk-description = A language consisting of harsh binary chirps, w
 language-Calcic-name = Calcic
 language-Calcic-description = The bone-rattling language of skeletons and Plasmamen. It sounds like a harmonic trousle of bones with a humerus tone, sans any off-tune ribbing.
 
-language-Sign-name = Spacer's Sign
-language-Sign-description = An evolved form of the ancient American Sign Language, used by all spacefarers. Comprised mostly of aggressive arm-length gestures that are meant to be seen clearly in the silence of EVA.
+language-Sign-name = Nova Língua de Sinais Americana
+language-Sign-description = Uma forma desenvolvida da língua de sinais americana, usada por todos navegadores espaciais. Composta principalmente de gesturas agressivas, feitas com os braços inteiros, intencionadas a serem vistas claramente no vácuo do espaço.
 
 language-Marish-name = Marish
 language-Marish-description =  A language spoken only by Voidborn, one that is unable to be replicated by normal tongues.

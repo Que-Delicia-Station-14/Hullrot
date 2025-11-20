@@ -66,12 +66,12 @@
       Unsexed: MaleFelinid
   - type: Felinid
   - type: NoShoesSilentFootsteps
-  - type: LanguageKnowledge
-    speaks:
-    - Nekomimetic
-    understands:
-    - TauCetiBasic
-    - Nekomimetic
+#  - type: LanguageKnowledge
+#    speaks:
+#    - Nekomimetic
+#    understands:
+#    - TauCetiBasic
+#    - Nekomimetic
   - type: Thieving
     ignoreStripHidden: true
     stealth: Subtle

@@ -239,11 +239,11 @@ trait-description-NovuNederic =
     Spoken in the New-Netherlands, this direct and pragmatic trade language carries the sharp consonants and clipped vowels of its old-world roots.
     Built on centuries of seafaring, land reclamation, and commerce, it thrives among those who shape entire worlds — just as their ancestors shaped the land from the sea.
 
-trait-name-Tradeband = Tradeband
+trait-name-Tradeband = Tergovino
 trait-description-Tradeband =[color=green]
-    This is an intermediary language, available for all factions to acquire. Spacers, Independents, TAP and trade-focused roles know this language automatically.[/color]
-    The medium language of Sector Crescent. Rooted in terran Slavic languages, but retrofitted
-    by speakers to accomodate nonhuman vocal chords as well.[color=green]
+    Essa é uma língua franca, disponível para todas facções. Espaceiros, Independentes, TAP e trabalhos focados em troca sabem essa língua automáticamente.[/color]
+    Língua franca do Crescente. Vindo de línguas eslávicas da Terra, mas modificado
+    pelos falantes para acomodar vozes não-humanas.[color=green]
     A translator device for this language is available, for all factions, to produce roundstart at a Pristine Microforge.[color]
 
 trait-name-Elyran = Elyran Standard

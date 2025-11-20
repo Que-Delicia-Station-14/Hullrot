@@ -27,9 +27,9 @@ employer_name_cdt = Cyberdawn Technologies
 employer_name_cdt_command = Coalition Navalcomm
 employer_description_cdt = A development company traceable back to the East Asian Combine in Old Terra -- Cyberdawn Technologies started as a software chip developer for Shinohara Industries products, later branching out into the arms and munitions market to compete with their former business partners with their patented hardlight technology. In Taypan, they sit in the Coalition's council, developing technology and vessels for their less smarts-inclined allies.
 
-employer_name_scribes = The Imperial Charter of Scribes
-employer_name_scribes_command = The Society of Conscious Thought
-employer_description_scribes = One of the oldest organizations in Taypan and the Imperial Supercluster as a whole, The Imperial Charter of Scribes has served the Divine Sol Mandate since the very inception of the Empire. Staffed with the brightest minds of the past, present, and future, almost every modern and ancient breakthrough has been made aboard a Scribe outpost, including research into the noosphere and the Boundary, armament development for vessels, and their most recent discovery, hardlight deflectors for vessel-scale defenses.
+employer_name_scribes = A Academia Imperial de Escribas
+employer_name_scribes_command = A Sociedade do Juízo Racional
+employer_description_scribes = A Academia Imperial de Escribas tem servido o Mandato Solar Divino desde sua concepção. Equipada com as mentes mais brilhantes do passado, presente, e futuro, quase toda grande descoberta feita na modernidade e sobre o mundo antigo foi feita em um posto Escriba, incluindo pesquisa sobre a Noösfera, pesquisa de armamentos de naves, e sua descoberta mais recente, holografia sólida para defesa de alvos grandes.
 
 employer_name_soga = Merchant House Soga
 employer_name_soga_command = The Barony of Taypan

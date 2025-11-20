@@ -1,14 +1,13 @@
-trait-name-Dockta = Crioulo da Crescente
+trait-name-Dockta = Patuá Crescentino
 trait-description-Dockta = [color = green]
-    This is the primary language of the NCWL faction. All NCWL members are able to speak and understand it. [/color]
-    A language developed by the Crescent Workers League over time as an effort to eliminate the repressive old ways and welcome the new;
-    a mishmash of Solarian Basic, Low Imperial and much from other languages that immigrated to Sector Crescent, integrated to be used
-    with aggressive hand gestures to communicate with others in zero-atmosphere, zero-gravity space. [color = red]
+    Língua principal da LTNC (NCWL). [/color]
+    Dokta, "da doca". Língua desenvolvida no Crescente ao longo do reino Imperial da região; uma fusão de Solariano, Imperial Vulgar e várias outras línguas que imigraram ao setor, 
+    gesturas corporais podem ser integradas para comunicação no vácuo do espaço. [color = red]
     A translator device for this language is available as a T1 research for all factions, and printable at a Pristine Microforge. [/color]
     
 
 trait-name-HighImperial = Imperial Alto
-trait-description-HighImperial = A language primarily used by the nobility of Old Terra. With influences primarily from European linguistics, High Imperial is considered a dead language today, kept alive only by the small population of devoted Imperial citizenry and nobility.
+trait-description-HighImperial = Língua principalmente usada por nobres da Velha Terra e acadêmicos. Com influências primárias de linguas europeias, Imperial Alto é considerado uma língua morta hoje, mantida viva apenas pelos nobres e mais devotos cidadãos do Império.
 
 trait-name-Clarizian = Clariziano Comum
 trait-description-Clarizian = Clarizian Common is the official tongue of the Free Clarizian Duchies. Constructed using elements of Farsi - Arabic - and Turkish, used by both highborn and commoners.
@@ -25,9 +24,9 @@ trait-description-Kaishago = [color = green]
 
 trait-name-LowImperial = Imperial Vulgar
 trait-description-LowImperial = [color = green]
-    This is the primary language of the DSM faction. All DSM members are able to speak and understand it. [/color]
-    The language spoken in the majority of Mandate space. A butchering of ancient romance languages like French and Romanian, 
-    colored in multiple dialects that are still somehow mutually understood. [color = red]
+    Língua principal do MSD (DSM). Todos membros do MSD pode entender e fala-la. [/color]
+    Língua falada na maioria do espaço do MSD. Uma desgraceira de línguas romance da Terra Antiga como Francês e Romeno, 
+    falado em vários dialetos, mas retém sua inteligibilidade mútua. [color = red]
     A translator device for this language is available as a T1 research for all factions, and printable at a Pristine Microforge. [/color]
 
 trait-name-Freespeak = Jargão Taipenho
