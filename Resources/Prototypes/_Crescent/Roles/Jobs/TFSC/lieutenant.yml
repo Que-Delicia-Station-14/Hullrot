@@ -13,6 +13,10 @@
   requirements:
 #    - !type:CharacterOverallTimeRequirement
 #      min: 30000
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Voidborn
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement
@@ -85,3 +89,4 @@
     id: LieutenantPDA
     ears: ClothingHeadsetNCSP
     belt: WeaponPistolViperWood
+    pocket2: ClothingMaskGasSyndicate

@@ -30,3 +30,5 @@ vessel-designation-lightcorvette = corveta leve
 vessel-designation-lightfrigate = fragata de patrulha
 vessel-designation-strikefrigate = fragata de shoque
 vessel-designation-outpost = posto móvel
+vessel-designation-heavybattlecruiser = cruzador de batalha pesado
+vessel-designation-wreck = abandonado

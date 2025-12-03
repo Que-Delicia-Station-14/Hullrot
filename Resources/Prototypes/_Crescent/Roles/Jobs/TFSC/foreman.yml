@@ -13,6 +13,10 @@
   requirements:
 #    - !type:CharacterOverallTimeRequirement
 #      min: 20000
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Voidborn
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement

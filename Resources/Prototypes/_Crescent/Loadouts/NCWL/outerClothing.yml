@@ -12,9 +12,14 @@
         - CommandantNCWL
         - KommissarNCWL
         - FleetkapitanNCWL
+        - MVDOfficerNCWL
+        - MVDGruntNCWL
         - PartisanNCWL
+        - DirectorNCWL
         - DoctorNCWL
-        - CoordinatorNCWL
+        - WorkerOverbossNCWL
+        - DockhandNCWL
+        - IndustryTaskmasterNCWL
         - ArtificerNCWL
         - WorkerNCWL
 
@@ -43,6 +48,26 @@
     - !type:CharacterJobRequirement
       jobs:
         - CommandantNCWL
+        - MVDOfficerNCWL
+        - MVDGruntNCWL
         - DoctorNCWL
-        - CoordinatorNCWL
+        - WorkerOverbossNCWL
         - ArtificerNCWL
+
+- type: loadout
+  id: LoadoutOuterArmorMVDCoat
+  category: Outer
+  cost: 1
+  items:
+    - ClothingOuterArmorMVDCoat
+  requirements:
+    - !type:CharacterWhitelistRequirement
+    - !type:CharacterOverallTimeRequirement
+      min: 30000
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutOuter
+    - !type:CharacterJobRequirement
+      jobs:
+        - CommandantNCWL
+        - KommissarNCWL
+        - MVDGruntNCWL

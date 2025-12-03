@@ -66,6 +66,7 @@
   - VanguardLPC
   - ZorniyLPC
   - LodkaLPC
+  - CherenzikovLPC
 
 - type: technology
   id: CommunardKrechet
@@ -155,6 +156,7 @@
   - WeaponRevolverPython
   - ClothingOuterHardsuitNCWLPetya
   - WeaponShotgunToz123
+  - WeaponSniperNCWLNovomosin
 
 - type: technology
   id: CommunardLancer

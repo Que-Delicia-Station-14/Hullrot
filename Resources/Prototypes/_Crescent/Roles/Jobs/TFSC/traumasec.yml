@@ -13,6 +13,10 @@
   requirements:
 #    - !type:CharacterOverallTimeRequirement
 #      min: 10800
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+        - Voidborn
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement
@@ -49,8 +53,15 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitSyndicateInterdyne
     gloves: ClothingHandsGlovesFingerless
-    mask: ClothingMaskSyndicateFacemask
+    mask: ClothingMaskBreathMedicalSecurity
     shoes: ClothingShoesBootsCombat
     id: TraumasecPDA
-    back: ClothingBackpackNCSPFilledInfanteer
+    pocket1: WeaponPistolHKUSP
     ears: ClothingHeadsetNCSPInterdyne
+  storage:
+    back:
+      - Flash
+      - Tourniquet
+      - Zipties
+      - MagazinePistol
+      - CombatKnife

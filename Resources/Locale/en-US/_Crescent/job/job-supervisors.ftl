@@ -1,8 +1,10 @@
 job-supervisors-highcomm = Alto Comando NCWL
 job-supervisors-ncwl-kommissar = Para o Major General da Liga, sob seu discernimento.
 job-supervisors-ncwl-leaders = Para o Komissário primeiro, e depois o Major General.
-job-supervisors-ncwl-partisan = Para Komodoro primeiro, depois o Komissário, depois o Major General.
-job-supervisors-ncwl-worker = Para o Coordenador primeiro, depois o Komissário, depois todo mundo.
+job-supervisors-ncwl-partisan = Para Komodoro primeiro, depois o Komissário, depois o Major-General.
+job-supervisors-ncwl-unionized = Para o Representante do Sindikato, o Komissário e Major-General.
+job-supervisors-ncwl-worker = Para o Sindikato, depois o Komissário e Major-General.
+job-supervisors-ncwl-mvd = Para o Comitê Central de Chengridz e, por extensão, o Komissário.
 job-supervisors-ncsp = NCSP High Command
 job-supervisors-imperial = Casa de Kircheis
 job-supervisors-shi = Comando Corporativo Shinohara
@@ -19,3 +21,4 @@ job-supervisors-unionfall-dsm = The Knight-Bannaret, then the Grand Steward of t
 job-supervisors-unionfall-dsm-high = your house's quest to restore its honor
 job-supervisors-unionfall-ncwl = The Kommissar, then the Captain of the Dear Clementine
 job-supervisors-unionfall-ncwl-high = the revolution's embers
+

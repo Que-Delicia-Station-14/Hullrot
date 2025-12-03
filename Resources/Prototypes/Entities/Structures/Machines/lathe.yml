@@ -224,6 +224,8 @@
     - N14MaterialCircuitry
     - VehicleWheelchairFolded # Goobstation
     - SilkCrate # Hullrot - Silk Tradegoods Pallet
+    - LatheHandHeldMassScanner
+    - ClothingBeltSalvageWebbing
   - type: EmagLatheRecipes
     emagStaticRecipes:
     - BoxLethalshot
@@ -1230,7 +1232,13 @@
         - Cartridge40mmEMP
         - Cartridge40mmSmoke
         - Cartridge40mmThermobaric
+        - MagazineBoxImperialRifleBig
+        - MagazineHeavyRifleSmall
         #Hullrot edit start
+        - MagazinePulse470Fmj
+        - MagazinePulse470
+        - MagazinePulse350Fmj
+        - MagazinePulse350
         - DrumMagazineShotgunSlug
         - DrumMagazineShotgunEmpty
         - DrumMagazineShotgunBuck
@@ -1285,7 +1293,7 @@
           - Gauze
           - Metal
 
-      
+
 - type: entity
   id: MedicalTechFab
   parent: [BaseLatheLube, BaseMaterialSiloUtilizer]
@@ -1634,8 +1642,8 @@
   - type: Machine
     board: BiogeneratorMachineCircuitboard
   - type: MaterialStorage
-    insertOnInteract: true 
-    canEjectStoredMaterials: false
+    insertOnInteract: true
+    canEjectStoredMaterials: true
     ignoreColor: true
     whitelist:
       tags:
@@ -1686,7 +1694,7 @@
     - BioGenBoozeVendRestock
     - BioGenCondimentsRestock
     - BioGenChefVendRestock
-    
+
 - type: entity
   parent: [BaseLathe, BaseMaterialSiloUtilizer]
   id: OreProcessor

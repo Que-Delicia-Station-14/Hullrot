@@ -5,13 +5,18 @@ job-name-utility-ipc = IPC Engenheiro NT
 
 # ncwl
 
-job-name-ncwl-faction-leader = Major
+job-name-ncwl-faction-leader = Major-General
 job-name-ncwl-kommissar = Komissário
+job-name-ncwl-mvd-officer = Komissário Cadete
+job-name-ncwl-mvd-grunt = Acessor
 job-name-ncwl-fleetkapitan = Komodoro
 job-name-ncwl-partisan = Partisão
-job-name-ncwl-artificer = Artífice
-job-name-ncwl-medical-doctor = Sanitar
-job-name-ncwl-coordinator = Coordenador
+job-name-ncwl-industry-taskmaster = Starshiná do Sindikato
+job-name-ncwl-industry-artificer = Artífice de Sindikato
+job-name-ncwl-medical-director = Diretor da Alyança
+job-name-ncwl-medical-doctor = Médico da Alyança
+job-name-ncwl-worker-overboss = Coordenador de Logística
+job-name-ncwl-worker-dockhand = Equipe de Logística
 job-name-ncwl-newbie = Proletário
 
 # syndicate
@@ -28,6 +33,9 @@ job-name-cyberdawntech = Pesquisador Cyberdawn
 job-name-intelligenceofficer = Patriarca
 job-name-shipbreaker = Sucateiro
 job-name-foreman = Supervisor SAW
+ghost-role-information-syndicate-cyborg-assault-name = Ciborgue de ataque CS 5401 Xigou
+ghost-role-information-syndicate-cyborg-Medical-name = Ciborgue médico de combate CS 4201 Yao Wang
+ghost-role-information-syndicate-cyborg-saboteur-name = Ciborgue sabotador CS 3201 Sun Wukong
 
 # empire
 
@@ -59,12 +67,12 @@ job-name-overseer = Overseer of the Hunt
 # shi
 
 job-name-executive = Sector Manager
-job-name-board = Board Executive
+job-name-board = Assistant Manager
 job-name-corpsec = CorpSec Agent
 job-name-highsec = Corporate Liquidation Agent
 job-name-employee = Salaryman
 job-name-medtech = MedTech Researcher
-job-name-boardhr = Human Resources
+job-name-boardhr = Human Resources Officer
 job-name-hos-shi = Head of CorpSec
 
 # tsp

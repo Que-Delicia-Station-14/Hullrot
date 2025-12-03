@@ -7,12 +7,17 @@ job-description-nt-utility-ipc = Load ammunition and upkeep nanotrasen ships. Co
 
 job-description-ncwl-faction-leader = Lidere a liga pelo lado externo. Mantenha relações ou planos de guerra com outras facções. Não morra.
 job-description-ncwl-kommissar = Lidere a liga pelo lado interno. Certifique que a Guarda está fazendo seu trabalho. Execute traidores.
+job-description-ncwl-mvd-officer = Seja a mão visível do Comitê Central. Lidere sua pequena equipe e siga as ordens do Komissario.
+job-description-ncwl-mvd-grunt = Seja a mão visível do Comitê Central. Siga o Komissário e obedeça suas ordens.
 job-description-ncwl-fleetkapitan = Comande as massas de Partisãos. Escute os comandos do Komissario. Mantenha coesão no campo de batalha.
 job-description-ncwl-partisan = Defenda a Liga. Obedeça o seu Komodoro. Faça o que te é exigido.
-job-description-ncwl-artificer = Conduza a logística na parte de fabricação. Conduza pesquisas.
-job-description-ncwl-medical-doctor = Mantenha a Guarda e a prole viva. Vá com a Guarda em missões. Faça drogas, salva aqueles perdidos no espaço.
-job-description-ncwl-coordinator = Organize operações de salvatagem e mineração. Verifique se os trabalhadores estão fazendo seu trabalho. Mantenha o fluxo de recursos.
-job-description-ncwl-newbie = Trabalhe em o que precisa ser trabalhado. Sirva a Liga. Obedeça seus superiores.
+job-description-ncwl-industry-taskmaster = Certifique que os materiais estão sendo usados para produzir bens comerciais e munição. Organize a manutenção da frota.
+job-description-ncwl-industry-artificer = Escute o Starshiná. Procure recursos para a Liga. Faça reparos e modificações de naves.
+job-description-ncwl-medical-director = Mantenha a Liga viva. Coordene pesquisa. Encomende cibernéticos e novos medicamentos.
+job-description-ncwl-medical-doctor = Mantenha a Guarda e a prole viva. Vá com a Guarda em missões. Faça drogas, salve aqueles perdidos no espaço.
+job-description-ncwl-worker-overboss = Organize missões de mineração e sucateamento. Certifique se os trabalhadores estão trabalhando. Mantenha um fluxo de recursos para o Complexo Industrial da Liga. Organize rotas de comércio.
+job-description-ncwl-worker-dockhand = Escute o mestre das docas. Faça comércio. Encomende suprimentos. Participe nas equipes de mineração e sucateamento. Fique preso em uma das esteiras.
+job-description-ncwl-newbie = Trabalhe no que precisa ser trabalhado. Sirva a Liga. Obedeça seus superiores.
 
 # syndicate
 
@@ -28,6 +33,8 @@ job-description-intelligenceofficer = Represente os interesses da Familia. Sabot
 job-description-cyberdawntech = Pesquise novas tecnologias para a Familia.
 job-description-shipbreaker = Recupere naves do Sindicato, desmonte outras para obter sucata.
 job-description-foreman = Coordene os SAWs. Lidere embarques piratas. Sucateie naves.
+ghost-role-information-CS-core-description = Uma inteligência artificial avançada criada pela Cybersun. Operando há centenas de anos, cumpra os objetivos da CDT e proteja sua nave e tripulação.
+ghost-role-information-syndicate-cyborg-description = Você é uma peça de tecnologia perdida no tempo, cumpra suas leis e glorifique a Cybersun.
 
 # empire
 
@@ -48,7 +55,7 @@ job-description-surgeon = Atenda às preces por saúde de seus irmãos. Faça re
 job-description-advocatus = Julgue a lealdade em seu soberano, dos subordinados do Kaiser. Questione violadores da Sua vontade. Assegure cooperação com o Mandato.
 job-description-advocatustemplar = Proteja o Inquisidor e faça a sua vontade. Assegure cooperação com o Mandato.
 
-# srm#
+# srm
 
 job-description-tender = Tend to the wounds of your comrades. Tend to the vessels of the Saint. Carry out menial chores.
 job-description-apprenticehunter = Learn the Hunt from your assigned Master Hunter.
@@ -64,7 +71,7 @@ job-description-corpsec = Secure assets of the Corporation. Detain unruly custom
 job-description-highsec = Secure the military interests of the Corporation. Respond to high-risk missions.
 job-description-employee = Serve in various departments of the Corporation.
 job-description-medtech = Research and develop new technologies, tend to the ailments of employees.
-job-description-boardhr = Ensure the compliance of corporate law is being respected.
+job-description-boardhr = Ensure Corporate Standards are being met alongside with handling public relations.
 job-description-hos-shi = Organize the security force of the corporation.
 
 # cmm
