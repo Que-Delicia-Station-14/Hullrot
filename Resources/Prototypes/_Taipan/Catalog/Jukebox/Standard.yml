@@ -1,18 +1,18 @@
 - type: jukebox
   id: killchain
-  name: The Killchain - Bolt Thrower
+  name: Bolt Thrower - The Killchain
   path:
     path: "/Audio/_Taipan/Jukebox/killchain.ogg"
 
 - type: jukebox
   id: zeroed
-  name: Zeroed - Bolt Thrower
+  name: Bolt Thrower - Zeroed 
   path:
     path: "/Audio/_Taipan/Jukebox/zeroed.ogg"
 
 - type: jukebox
   id: deathsun
-  name: Death of The Sun - Cirith Ungol
+  name: Cirith Ungol - Death of The Sun
   path:
     path: "/Audio/_Taipan/Jukebox/deathsun.ogg"
 
@@ -24,31 +24,31 @@
 
 - type: jukebox
   id: pplarmy
-  name: We are the Army of the People! (Synth Mix) - Ayden George
+  name: Ayden George - We are the Army of the People! (Synth Mix)
   path:
     path: "/Audio/_Taipan/Jukebox/pplarmy.ogg"
 
 - type: jukebox
   id: shattered
-  name: Shattered - Vulta
+  name: Vulta - Shattered
   path:
     path: "/Audio/_Taipan/Jukebox/shattered.ogg"
 
 - type: jukebox
   id: sdnc
-  name: SD-NC - Starsector OST
+  name: Starsector OST - SD-NC
   path:
     path: "/Audio/_Taipan/Jukebox/sdnc.ogg"
 
 - type: jukebox
   id: ttnc
-  name: TT-NC - Starsector OST
+  name: Starsector OST - TT-NC
   path:
     path: "/Audio/_Taipan/Jukebox/ttnc.ogg"
 
 - type: jukebox
   id: omnissiah
-  name: Children of the Omnissiah - Guillaume David
+  name: Guillaume David - Children of the Omnissiah
   path:
     path: "/Audio/_Taipan/Jukebox/omnissiah.ogg"
 
@@ -57,3 +57,9 @@
   name: Back Against the Wall
   path:
     path: "/Audio/_Taipan/Jukebox/against.ogg"
+
+- type: jukebox
+  id: evolution
+  name: Pearl Jam - Do the Evolution
+  path:
+    path: "/Audio/_Taipan/Jukebox/evolution.ogg"
