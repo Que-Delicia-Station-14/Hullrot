@@ -20,3 +20,7 @@ gsc-console = Computador de redenção Gorlex. Usa itens pirateados como moeda
 ipm-console = Computador de redenção Interdyne. Usa proteínas exóticas como moeda
 
 ship-comm-console = console de comunicação
+
+saint-romaine = A statue depicting the legendary Saint Romaine, wearing what appears to be his signature moth cloak.
+
+saint-serraine = A statue depicting our dearest Saint Serraine, a veil placed over her head as a sign of respect.

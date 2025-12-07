@@ -16,6 +16,7 @@
       species:
         - Voidborn
     - !type:CharacterOverallTimeRequirement
+      min: 20000
     - !type:FactionRequirement
       factionID: "TFSC"
     - !type:CharacterTraitRequirement
@@ -62,9 +63,9 @@
     gloves: ClothingHandsGlovesFingerless
     back: ClothingBackpackNCSP
   storage:
-    back:
+    belt:
       - Flash
       - Tourniquet
-      - Zipties
       - MagazinePistol
       - CombatKnife
+      - Zipties

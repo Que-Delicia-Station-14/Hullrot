@@ -8,13 +8,16 @@
   icon: "JobIconMarshal"
   supervisors: job-supervisors-gliess
   requirements:
+    - !type:FactionRequirement
+      inverted: true
+      factionID: "SRM"
     - !type:CharacterSpeciesRequirement
       inverted: true
       species:
         - Voidborn
     - !type:CharacterWhitelistRequirement
-#    - !type:CharacterOverallTimeRequirement
-#      min: 25000
+    - !type:CharacterOverallTimeRequirement
+      min: 25000
   special:
   - !type:AddComponentSpecial
     components:
@@ -40,8 +43,16 @@
     shoes: ClothingShoesBootsCombat
     head: ClothingHeadHatCMMMarshal
     gloves: ClothingHandsGlovesCombat
-    belt: ClothingBeltMinutemanPouches
     pocket1: WeaponRevolverSnubnose
     id: GliessSheriffPDA
     ears: ClothingHeadsetCMM
     outerClothing: ClothingOuterArmorCMMCarapace
+    belt: ClothingBeltMinutemanPouches
+  storage:
+    belt:
+      - Flash
+      - Tourniquet
+      - BaseSpeedLoaderMagnum
+      - BaseSpeedLoaderMagnum
+      - CombatKnife
+      - Zipties

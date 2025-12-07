@@ -13,8 +13,8 @@
   requirements:
     - !type:FactionRequirement
       factionID: "DSM"
-#    - !type:CharacterOverallTimeRequirement
-#      min: 10800
+    - !type:CharacterOverallTimeRequirement
+      min: 0
     - !type:CharacterSpeciesRequirement
       species:
         - Human
@@ -64,9 +64,9 @@
     pocket2: RomaineBible
     belt: ClothingBeltAssault
   storage:
-    back:
+    belt:
       - Flash
       - Tourniquet
-      - Zipties
       - MagazinePistol
       - CombatKnife
+      - Zipties

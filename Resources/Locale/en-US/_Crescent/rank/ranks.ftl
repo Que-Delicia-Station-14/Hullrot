@@ -68,7 +68,6 @@ crescent-rank-ncwl-medi-worker = Médico
 crescent-rank-ncwl-logi-leader = Coordenador
 crescent-rank-ncwl-worker = Companheiro
 
-
 # syn
 
 crescent-rank-synadmin = Líder

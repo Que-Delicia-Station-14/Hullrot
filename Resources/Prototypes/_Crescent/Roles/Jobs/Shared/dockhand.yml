@@ -11,6 +11,9 @@
     inverted: true
     species:
       - Voidborn
+  - !type:FactionRequirement
+      inverted: true
+      factionID: "SRM"
   startingGear: DockhandGear
   icon: "JobIconDockhand"
   supervisors: job-supervisors-gliess
@@ -40,8 +43,7 @@
     id: DockhandPDA
     jumpsuit: ClothingUniformJumpsuitCMMMachinist
     belt: ClothingBeltSalvageWebbingFilledNF
-    back: ClothingBackpackFilled
+    back: ClothingBackpackSHI
     gloves: ClothingHandsGlovesColorYellow
     shoes: ClothingShoesBootsSalvage
     eyes: ClothingEyesGlassesSunglassesBig
-    pocket1: WeaponPistolHKUSP
